@@ -1,5 +1,5 @@
 pkgname=askpass-fuzzel
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="Simple password entry menu based on fuzzel for SSH askpass"
 arch=('any')
